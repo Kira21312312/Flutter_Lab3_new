@@ -1,17 +1,23 @@
-# girst_flutter_app
+# Оформление сайта лаба 3
+веб страница с градиентом  и надписью.
 
-A new Flutter project.
+## инфа обо мне
+Кирилл ИСП-243
 
-## Getting Started
+## Стек и верисия
+Flutter 3.47.7; Dart 3.13.5; Платформа: Web (Chrome);
+IDE: VS Code
 
-This project is a starting point for a Flutter application.
+![скрин приложения](/img/step9_Toranik.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+## Запуск
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+3. Выполнить `flutter pub get`
+4. Запустить командой `flutter run -d chrome`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Что узнал
+1. узнал как делать вебстраницу с минимальными виджатами
+2. как менять текст и его расположение
+как сделать 
+3. поменять цвет фона на странице и сделать градиент.
